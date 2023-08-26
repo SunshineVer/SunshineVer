@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Vera👋
+
+🔭 HSE GSB Business Informatics Bachelor student (2020-2024)
+🌱 Sber System Analyst
+📫 ex Ozon Product Analyst
 
 <!--
 **SunshineVer/SunshineVer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
