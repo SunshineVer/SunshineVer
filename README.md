@@ -2,7 +2,7 @@
 
 🔭 HSE GSB Business Informatics Bachelor student (2020-2024)
 
-🌱 Sber System Analyst
+🌱 ex Sber System Analyst
 
 📫 ex Ozon Product Analyst
 
