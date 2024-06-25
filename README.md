@@ -2,6 +2,8 @@
 
 🔭 HSE GSB Business Informatics Bachelor student (2020-2024)
 
+🎦 Okko Product Analyst
+
 🌱 ex Sber System Analyst
 
 📫 ex Ozon Product Analyst
